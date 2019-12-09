@@ -1,6 +1,6 @@
 import java.security.SecureRandom;
 
-public class DiceRolling {
+public class DiceRolling{
     public final static int ROLLING_TIMES = 36000000;
 
     public static void main(String[] args) {
